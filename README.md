@@ -8,5 +8,3 @@
 Hello, my name is Gabriel. I'm a 21-year-old Brazilian computer science student at UFCG (Federal University of Campina Grande).
 At the moment, I'm an intern at Codehashi doing some mobile development with flutter but, I'm also interested in web development and trying to learn french so au revoir.
 </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgns)](https://github.com/anuraghazra/github-readme-stats)
