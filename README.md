@@ -6,6 +6,5 @@
 <b>Email</b>: gabriel.nascimento.santos@ccc.ufcg.edu.br <br>
 
 Hello, my name is Gabriel. I'm a 21-year-old Brazilian computer science student at UFCG (Federal University of Campina Grande).
-I'm more interested in web development and have a little bit of knowledge in Java and Python but, all technologies are welcome and, I like all of them.
-I'm also trying to learn french so au revoir.
+At the moment, I'm an intern at Codehashi doing some mobile development with flutter but, I'm also interested in web development and trying to learn french so au revoir.
 </p>
