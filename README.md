@@ -1,10 +1,16 @@
-<h1> Gabriel Nascimento Santos </h1>
+### Hi there, I'm Gabriel
 
-<p>
-<b>University</b>: UFCG (Universidade Federal de Campina Grande) <br>
-<b>LinkedIn</b>: (https://www.linkedin.com/in/gabriel-nascimento-0b32501ab/) <br>
-<b>Email</b>: gabriel.nascimento.santos@ccc.ufcg.edu.br <br>
+## I'm a computer science student and software developer!
+- :computer: I'm currently an intern at @Codehashi!
+- :closed_book: I'm currently learning and working with Flutter
+- :pencil2: I'm looking to improve my skills and contribute to Open Source projects
+- :calendar: 2021 Goals: Make some of my personal projects
+- :bulb: Fun fact: I'm also trying to learn french
 
-Hello, my name is Gabriel. I'm a 21-year-old Brazilian computer science student at UFCG (Federal University of Campina Grande).
-At the moment, I'm an intern at Codehashi doing some mobile development with flutter but, I'm also interested in web development and trying to learn french so au revoir.
-</p>
+ ### Connect with me:
+ 
+LinkedIn: https://www.linkedin.com/in/gabriel-nascimento-0b32501ab/
+E-mail: gabriel.nascimento.santos@ccc.ufcg.edu.br
+
+---
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgns&count_private=true)](https://github.com/gabrielgns/github-readme-stats)
