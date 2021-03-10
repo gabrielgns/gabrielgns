@@ -9,8 +9,9 @@
 
  ### Connect with me:
  
-[![Linkedin Badge] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nascimento-0b32501ab/)](https://www.linkedin.com/in/gabriel-nascimento-0b32501ab/)  
 
-::mailbox: gabriel.nascimento.santos@ccc.ufcg.edu.br
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nascimento-0b32501ab/)](https://www.linkedin.com/in/gabriel-nascimento-0b32501ab/)
+
+:mailbox: gabriel.nascimento.santos@ccc.ufcg.edu.br
 ---
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgns&count_private=true)](https://github.com/gabrielgns/github-readme-stats)
