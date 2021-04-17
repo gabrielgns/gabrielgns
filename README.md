@@ -19,3 +19,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgns&layout=compact)](https://github.com/gabrielgns/github-readme-stats)
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgns&count_private=true)](https://github.com/gabrielgns/github-readme-stats)
+
+[![gabrielgns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielgns)](https://github.com/gabrielgns/github-readme-stats)
