@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel
 
 ## I'm a computer science student and software developer!
-- :computer: I'm currently an intern at @Codehashi!
+- :computer: I'm currently an undergraduate student at UFCG!
 - :closed_book: I'm currently learning and working with Flutter
 - :octocat: I'm looking to improve my skills and contribute to Open Source projects
 - :calendar: 2021 Goals: Make some of my personal projects
