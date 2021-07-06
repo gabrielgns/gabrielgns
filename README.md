@@ -17,4 +17,4 @@
 
 [![gabrielgns's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgns&layout=compact&theme=tokyonight)](https://github.com/gabrielgns/github-readme-stats)
 
-[![gabrielgns's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgns&count_private=true&theme=tokyonight&layout=compact)](https://github.com/gabrielgns/github-readme-stats)
+[![gabrielgns's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgns&count_private=true&theme=tokyonight&layout=compact&hide=stars,issues)](https://github.com/gabrielgns/github-readme-stats)
